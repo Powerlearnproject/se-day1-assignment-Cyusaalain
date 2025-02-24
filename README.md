@@ -60,13 +60,13 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 | Feature        | **Waterfall** | **Agile** |
 |--------------|------------|--------|
-Approach** | Linear, sequential | Iterative, flexible |
-Phases** | Defined upfront, completed one at a time | Continuous development and feedback |
-Flexibility** | Rigid, changes are difficult | Adaptive, changes are easily incorporated |
-User Involvement| Minimal until the end | High throughout development |
-Delivery | Delivered as a full product at the end | Delivered in increments (sprints) |
-Risk Management | Higher risk, late error detection | Lower risk, early problem detection |
-Best for | Well-defined projects with stable requirements | Dynamic projects with evolving requirements |
+**Approach** | Linear, sequential | Iterative, flexible |
+**Phases** | Defined upfront, completed one at a time | Continuous development and feedback |
+**Flexibility** | Rigid, changes are difficult | Adaptive, changes are easily incorporated |
+**User Involvement**| Minimal until the end | High throughout development |
+**Delivery** | Delivered as a full product at the end | Delivered in increments (sprints) |
+**Risk Management** | Higher risk, late error detection | Lower risk, early problem detection |
+**Best for** | Well-defined projects with stable requirements | Dynamic projects with evolving requirements |
 
 When to Use Each
 
